@@ -26,25 +26,18 @@ Step 1: Clone the repository
 Clone this repository to your local machine:
 git clone https://github.com/your-username/image-compression.git
 cd image-compression
+
 Step 2: Install dependencies
 Install the required dependencies:
-
-bash
-Copy
 pip install numpy Pillow dahuffman
+
 Usage
 Run the script with an image file as the input:
-
-bash
-Copy
 python compress_image.py path_to_image.jpg
 The script will output a compressed version of the image with _cmp appended to the original filename.
 
 Example
 Here’s an example of how the algorithm compresses an image:
-
-bash
-Copy
 python compress_image.py sample_image.png
 The result will be a compressed image file sample_image_cmp.png.
 

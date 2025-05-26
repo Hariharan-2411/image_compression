@@ -21,9 +21,9 @@ This repository contains a Python script that performs **lossless image compress
 
 ## Installation
 
-### Step 1: Clone the repository
-Clone this repository to your local machine:
 ```bash
+Step 1: Clone the repository
+Clone this repository to your local machine:
 git clone https://github.com/your-username/image-compression.git
 cd image-compression
 Step 2: Install dependencies
